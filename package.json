@@ -1,0 +1,26 @@
+{
+  "name": "tutorial-nuxt",
+  "version": "0.0.1",
+  "description": "Um tutorial NuxtJS",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/igorjacauna/tutorial-nuxtjs.git"
+  },
+  "keywords": [
+    "vuejs",
+    "nuxtjs",
+    "node",
+    "web",
+    "spa",
+    "pwa",
+    "ssr"
+  ],
+  "author": "Igor Jacaúna",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  }
+}
